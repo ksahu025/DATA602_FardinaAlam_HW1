@@ -1,0 +1,2 @@
+DATA-602 will help me gain practical experience while mastering core concepts in data science 
+so that I'm well-prepared to tackle complex challenges across various industries
