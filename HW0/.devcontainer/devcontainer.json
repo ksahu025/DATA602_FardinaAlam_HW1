@@ -1,0 +1,15 @@
+{
+  "name": "cmsc320-ds",
+  "image": "jmct/cmsc320",
+  "forwardPorts": [8888],
+  "remoteUser": "jovyan",
+  "postCreateCommand": "python -V && pip list | head -n 20",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ]
+    }
+  }
+}
